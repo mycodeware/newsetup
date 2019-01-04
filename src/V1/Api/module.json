@@ -1,0 +1,14 @@
+{
+    "name": "V1/Api",
+    "alias": "v1/api",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\V1/Api\\Providers\\V1/ApiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

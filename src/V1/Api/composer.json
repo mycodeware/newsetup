@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/v1/api",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\V1/Api\\Providers\\V1/ApiServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\V1/Api\\": ""
+        }
+    }
+}
