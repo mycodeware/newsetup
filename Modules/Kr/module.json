@@ -1,0 +1,16 @@
+{
+    "name": "Kr",
+    "alias": "kr",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Kr\\Providers\\KrServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
